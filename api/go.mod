@@ -1,8 +1,9 @@
-module github.com/cometbft/cometbft/api
+module github.com/harveylUNC/cometbft/api
 
 go 1.22
 
 require (
+	github.com/cometbft/cometbft/api v1.0.0-rc.1
 	github.com/cosmos/gogoproto v1.4.12
 	github.com/golang/protobuf v1.5.3
 	google.golang.org/grpc v1.62.1
