@@ -9,8 +9,8 @@ import (
 	"sort"
 	"strings"
 
-	//TO-DO modify cmtproto to support validatorgroup
-	cmtproto "github.com/cometbft/cometbft/api/cometbft/types/v1"
+	//TO-DO modify cmtproto to support validatorgroups
+	cmtproto "github.com/harveylUNC/cometbft/api/cometbft/types/v1"
 	"github.com/cometbft/cometbft/crypto/merkle"
 )
 
